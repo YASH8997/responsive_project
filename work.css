@@ -195,31 +195,22 @@ body{
         display: flex;
         flex-wrap: wrap;
         width: 100%;
-<<<<<<< HEAD
-        height: 1000px;
-=======
-        height: 1300px;
->>>>>>> 0df4ef5c0b57909973399dcd79071b6ab86670f8
-    
+        height: 1200px;
+
     }
     .electrical{
-        height: 600px;
         width: 100%;
         order: 2;
     }
     .photo{
         order: 1; 
-<<<<<<< HEAD
-        margin-left: 50px;
+        margin-right: 10px;
+        margin-left: 10px;
         height: 155px;
         box-shadow: 0 4px 8px 0 black, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-        width: 76%; 
-=======
-        margin-left: 20px;
         height: 155px;
         box-shadow: 0 4px 8px 0 black, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-        width: 80%; 
->>>>>>> 0df4ef5c0b57909973399dcd79071b6ab86670f8
+        width: 95%; 
     }
  
     .heading{
@@ -256,7 +247,7 @@ body{
         border-radius:5px;
         box-shadow:0 px 3px 20px 2px wheat;
         width:15px;
-        margin-left: 20px;
+        margin-left: 10px;
     }
 
 }
