@@ -204,13 +204,12 @@ body{
         margin-left: 23%;
         order: 2;
     }
-    
     .icon{
-        margin-right: 20px;
+        margin-right: 10px;
         border:1px solid #333333;
         border-radius:5px;
         box-shadow:0 px 3px 20px 2px wheat;
         width:15px;
-        margin-left: 20px;
+        margin-left: 15px;
     }
 }
